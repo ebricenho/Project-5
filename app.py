@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly_express as px
 
-st.header('Aplicación Web')
+st.header('Aplicación Web - Anuncios de Autos')
 car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 hist_button = st.button('Histograma Interactivo') # crear un botón
 scatter_button = st.button('Gráfico Interactivo')
