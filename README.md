@@ -9,4 +9,3 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 - Interactuar con los gráficos utilizando Streamlit para ajustar el zoom y la visualización.
 
 
-https://project-5-50yk.onrender.com
